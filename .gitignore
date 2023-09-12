@@ -1,0 +1,10 @@
+scripts/__pycache__/meanTimes.cpython-39.pyc
+scripts/__pycache__/meanKineticTemperature.cpython-39.pyc
+queries/__pycache__/thermistor_query.cpython-39.pyc
+configs/__pycache__/db_config.cpython-39.pyc
+controllers/__pycache__/thermistor_driver.cpython-39.pyc
+helpers/__pycache__/dates_formatter.cpython-39.pyc
+queries/__pycache__/compressor_query.cpython-39.pyc
+controllers/__pycache__/compressor_samples_driver.cpython-39.pyc
+scripts/__pycache__/ramerDouglas.cpython-39.pyc
+helpers/__pycache__/query_json_sort.cpython-39.pyc
